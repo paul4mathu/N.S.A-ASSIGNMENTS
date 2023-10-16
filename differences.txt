@@ -1,0 +1,19 @@
+similarities of the OSI and TCP/IP model
+    i. Functionality-they are both layered and each layer defines a particular function
+    ii. Troubleshooting-troubleshooting is simplified for they are both layered and the layer functions are divided into smaller components.
+    iii. They are both logical models
+    iv. They both define the standard for networking.
+    v. They both divide the network communication process to layers
+    vi. They both use the same ethernet standards instead of defining them again.
+    vii. In both models manufacturer allows making devices and network components that can easily co-exist with each other 
+
+Differences between OSI and TCP/IP models 
+    i. OSI has seven layers namely (application layer, presentation layer, session layer, transport layer, network layer, data link layer, physical layer) while the TCP/IP model has four layers (network access layer, internet layer, transport layer, application layer).
+    ii. OSI uses the network layer to define routing standards and protocols. While TCP/IP only uses the internet layer.
+    iii. OSI model delivery of package is guaranteed while in TCP/IP delivery of package is not assured
+    iv. OSI standards for open systems interconnection while TCP stands for Transmission control protocol. 
+    v. In OSI the transport layer is only connection oriented while in TCP/IP a layer is both connection oriented and connectionless.
+    vi. In OSI session and presentation layer are part of the model While in TCP session and presentation are contained in the application layer.
+    vii. In OSI the data link and physical layer are separate layers while in TCP/IP physical and data link are both combined as a single host to network layer.
+    viii. OSI provides a clear distinction between interfaces, services and protocols while TCP/IP doesn’t distinguish its services interfaces nor its protocols. 
+    ix. OSI was developed by the international standard organization (ISO) while TCP/IP was developed by Advanced   research project agency (APRANET).
